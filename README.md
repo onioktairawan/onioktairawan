@@ -17,7 +17,7 @@
 
 ---
 
-## 🎯 Professional Summary
+## - Professional Summary
 
 I'm SERPA, a dedicated **Software Engineer** specializing in **Backend Systems** and high-performance **API Architecture**. My current focus is on designing and deploying fault-tolerant microservices, ensuring **API Reliability**, and automating deployment pipelines using **DevOps** principles.
 
@@ -30,7 +30,7 @@ I'm SERPA, a dedicated **Software Engineer** specializing in **Backend Systems**
 
 ---
 
-## 🛠️ Technology Stack
+## - Technology Stack
 
 ### Programming Languages
 
@@ -73,7 +73,7 @@ I'm SERPA, a dedicated **Software Engineer** specializing in **Backend Systems**
 
 ---
 
-## 📊 Performance Metrics
+## - Performance Metrics
 
 <p align="center">
     <a href="https://github.com/onioktairawan">
