@@ -87,7 +87,7 @@ I'm SERPA, a dedicated **Software Engineer** specializing in **Backend Systems**
 ---
 
 <h3 align="center">
-    // END_OF_FILE
+    
 </h3>
 
 <p align="center">
